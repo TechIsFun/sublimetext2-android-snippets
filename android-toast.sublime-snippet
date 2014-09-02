@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-Toast.makeText(this, ${1:""}, Toast.LENGTH_LONG).show();
-]]></content>
-	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>toast</tabTrigger>
-	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.java</scope>
-</snippet>
